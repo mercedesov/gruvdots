@@ -1,0 +1,2803 @@
+{
+  "main": {
+    "id": "b719be058a2c05d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cd4fd17d4ad59e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83c9cbac0d6338b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Ты не устал по 200’постов в день делать? -Важно, чтобы ты не уставал их читать.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-Ты не устал по 200’постов в день делать? -Важно, чтобы ты не уставал их читать"
+            }
+          },
+          {
+            "id": "cdcd66d2329fa6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game in the roman empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game in the roman empire"
+            }
+          },
+          {
+            "id": "3d85ef5bc9cf7502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magistra docet et discipula discit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magistra docet et discipula discit"
+            }
+          },
+          {
+            "id": "b3c0e5d94797062c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descipula legit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descipula legit"
+            }
+          },
+          {
+            "id": "f5c08f3a3fe59afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lego. Laboro. Dormio..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lego. Laboro. Dormio."
+            }
+          },
+          {
+            "id": "d9e8de28c16883b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Veni, vidi, vici.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Veni, vidi, vici"
+            }
+          },
+          {
+            "id": "7b88a7a2163a0558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "It might sound like I’m ‘bigging’ this up a bit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "It might sound like I’m ‘bigging’ this up a bit"
+            }
+          },
+          {
+            "id": "23130d99e80aded0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I don't feel I'm fulfilling my purpose as a human being.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I don't feel I'm fulfilling my purpose as a human being"
+            }
+          },
+          {
+            "id": "59d8187338c1636f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I learn more and more, and it feels increasingly beatiful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I learn more and more, and it feels increasingly beatiful"
+            }
+          },
+          {
+            "id": "382c046ec1201a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Under no circumstances.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Under no circumstances"
+            }
+          },
+          {
+            "id": "a468d36a95cd581e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what do I want to get out of this book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what do I want to get out of this book"
+            }
+          },
+          {
+            "id": "4a3f2ee07d724d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Римляне заимствовали свой алфавит у греков.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Римляне заимствовали свой алфавит у греков"
+            }
+          },
+          {
+            "id": "8f670c66c4139882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "буквы W в латинском языке нет, j появилась намного позже, всего 25 букв.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "буквы W в латинском языке нет, j появилась намного позже, всего 25 букв"
+            }
+          },
+          {
+            "id": "a9d5e6f6e737b601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ae is for posession, like 's or of.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ae is for posession, like 's or of"
+            }
+          },
+          {
+            "id": "e56adc4e961c7070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "“One glance at a book and you hear the voice of another person perhaps someone dead for thousands of years. Across the millennia the author is speaking clearly and silently inside your head, directly to YOU.”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "“One glance at a book and you hear the voice of another person perhaps someone dead for thousands of years. Across the millennia the author is speaking clearly and silently inside your head, directly to YOU.”"
+            }
+          },
+          {
+            "id": "4a13f3908e209107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-low quality cannot fake costly signals well -medium quality needs signaling -high quality can afford not to signal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-low quality cannot fake costly signals well -medium quality needs signaling -high quality can afford not to signal"
+            }
+          },
+          {
+            "id": "5ceedc9610e5bc14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "первоклассный сюжет.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "первоклассный сюжет"
+            }
+          },
+          {
+            "id": "5da5efc1664840eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"дизайнерские дети\" — эмбрионоы, обладающие заранее заданными генетическими характеристиками, такими как рост, внешность и физические способности..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"дизайнерские дети\" — эмбрионоы, обладающие заранее заданными генетическими характеристиками, такими как рост, внешность и физические способности."
+            }
+          },
+          {
+            "id": "9fde920e88a6e535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "with reckless disregard - c безрассудным пренебрежением.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "with reckless disregard - c безрассудным пренебрежением"
+            }
+          },
+          {
+            "id": "504273ede338f5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A tram has priority over non-rail vehicles at an equivalent intersection, regardless of direction, except when signs, signals, or a priority road say otherwise..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A tram has priority over non-rail vehicles at an equivalent intersection, regardless of direction, except when signs, signals, or a priority road say otherwise."
+            }
+          },
+          {
+            "id": "91514d25c491edab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ad nauseam - until nausea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ad nauseam - until nausea"
+            }
+          },
+          {
+            "id": "3835926be875b60a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "в обоих случаях аналогично.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "в обоих случаях аналогично"
+            }
+          },
+          {
+            "id": "41fa8c6d58c448ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Randian Atlases, having shrugged, now thirsting for immortality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Randian Atlases, having shrugged, now thirsting for immortality"
+            }
+          },
+          {
+            "id": "c11c5fbb20d88f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Одним из ключевых понятий в асинхронном программировании является событийная модель..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Одним из ключевых понятий в асинхронном программировании является событийная модель."
+            }
+          },
+          {
+            "id": "2ace789ded8292e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Singular intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singular intelligence"
+            }
+          },
+          {
+            "id": "1689d10e0a2c1901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отбрось то, что больше не несёт воды, чтобы река текла быстрее.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отбрось то, что больше не несёт воды, чтобы река текла быстрее"
+            }
+          },
+          {
+            "id": "11f6a42cc03ee667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Да уже похуй. Конец вам..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Да уже похуй. Конец вам."
+            }
+          },
+          {
+            "id": "fb012ba44be84fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "And here is the final point – You want to write a thought. But you know—100 AIs will dissect it in milliseconds. They'll find the logical flaw. Point out the banality..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "And here is the final point – You want to write a thought. But you know—100 AIs will dissect it in milliseconds. They'll find the logical flaw. Point out the banality."
+            }
+          },
+          {
+            "id": "cb78937ceaf603a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas as living organisms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas as living organisms"
+            }
+          },
+          {
+            "id": "24b2f00c0eefce0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The real question isn’t who thinks.It’s who defines the constraints..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The real question isn’t who thinks.It’s who defines the constraints."
+            }
+          },
+          {
+            "id": "964daa8d943caf61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datacenters in the Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datacenters in the Space"
+            }
+          },
+          {
+            "id": "c2b0da1ea8e878ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Что произойдет, когда инновации перестанут быть американскими?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Что произойдет, когда инновации перестанут быть американскими?"
+            }
+          },
+          {
+            "id": "bcb81e281f1ad39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combined – nearly unique identifier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combined – nearly unique identifier"
+            }
+          },
+          {
+            "id": "62df22dffbd80d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOBound, CPUBound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IOBound, CPUBound"
+            }
+          },
+          {
+            "id": "67592c0a14acafa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Корутины - это асинхронныефункции, которые могут останавливаться и возобновляться, пока они ждут выполнения IO bound задачи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корутины - это асинхронныефункции, которые могут останавливаться и возобновляться, пока они ждут выполнения IO bound задачи"
+            }
+          },
+          {
+            "id": "66692a8882acb1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- A Commonplace Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- A Commonplace Book"
+            }
+          },
+          {
+            "id": "cdff825e0b430ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"дизайнерские дети\" — эмбрионоы, обладающие заранее заданными генетическими характеристиками, такими как рост, внешность и физические способности..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"дизайнерские дети\" — эмбрионоы, обладающие заранее заданными генетическими характеристиками, такими как рост, внешность и физические способности."
+            }
+          },
+          {
+            "id": "9b7663adc2293ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vanilla-lexiconned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vanilla-lexiconned"
+            }
+          },
+          {
+            "id": "0de284e83b63ee7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cliffhanger ending.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cliffhanger ending"
+            }
+          },
+          {
+            "id": "18548cde5e2f38e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "is not available on tangible media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "is not available on tangible media"
+            }
+          },
+          {
+            "id": "43b51e7ef00b0ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parts of speech.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parts of speech"
+            }
+          },
+          {
+            "id": "e51531bdaa0b78b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Это хакеры разумеется..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Это хакеры разумеется."
+            }
+          },
+          {
+            "id": "07042e77d2aba2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rampant - безудержный.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rampant - безудержный"
+            }
+          },
+          {
+            "id": "348ac89f0404b87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сити становится центром технологий и вкуса лучшей жизни.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "сити становится центром технологий и вкуса лучшей жизни"
+            }
+          },
+          {
+            "id": "1403780a3858cfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Replacing \"There is\" with a meaningful subject (such as clients) creates a clearer experience for the reader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Replacing \"There is\" with a meaningful subject (such as clients) creates a clearer experience for the reader"
+            }
+          },
+          {
+            "id": "28980abdba0a955e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feed your technical readers factual data instead of marketing speak. Refactor amorphous adverbs and adjectives into objective numerical information..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feed your technical readers factual data instead of marketing speak. Refactor amorphous adverbs and adjectives into objective numerical information."
+            }
+          },
+          {
+            "id": "65ce2776bc89c79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Focus each sentence on a single idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Focus each sentence on a single idea"
+            }
+          },
+          {
+            "id": "9046e6acf16d8638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reserve which for nonessential subordinate clauses, and use that for an essential subordinate clause that the sentence can't live without.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reserve which for nonessential subordinate clauses, and use that for an essential subordinate clause that the sentence can't live without"
+            }
+          },
+          {
+            "id": "267f192ebabac77d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Place a comma before which; do not place a comma before that..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Place a comma before which; do not place a comma before that."
+            }
+          },
+          {
+            "id": "c23f0e892b1df0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use a bulleted list for unordered items; use a numbered list for ordered items..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use a bulleted list for unordered items; use a numbered list for ordered items."
+            }
+          },
+          {
+            "id": "885f897f7eecff9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embedded lists are a poor way to present technical information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "embedded lists are a poor way to present technical information"
+            }
+          },
+          {
+            "id": "714238b170994df0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "31da177e1be43058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytic minds tend to love tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analytic minds tend to love tables"
+            }
+          },
+          {
+            "id": "f7072ca69078f910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Корутины - это как задачи, которые вы можете начать, затем приостановить, чтобызаняться другой задачей, а затем вернуться и продолжить с места остановки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корутины - это как задачи, которые вы можете начать, затем приостановить, чтобызаняться другой задачей, а затем вернуться и продолжить с места остановки"
+            }
+          },
+          {
+            "id": "0c047e402b9d0ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Чтобы использовать await , ваша функция должна быть объявлена с ключевым словом async def..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чтобы использовать await , ваша функция должна быть объявлена с ключевым словом async def."
+            }
+          },
+          {
+            "id": "38b15af0a941494f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event loop является центральным механизмом, управляющим выполнением асинхронных задач. Онотслеживает задачи, которые готовы выполняться, и выполняет их в порядке появления..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event loop является центральным механизмом, управляющим выполнением асинхронных задач. Онотслеживает задачи, которые готовы выполняться, и выполняет их в порядке появления."
+            }
+          },
+          {
+            "id": "d074ea0547db35e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polling (от англ. \"опрос\") - это метод мониторинга состояния какого-либо устройства, системы илипроцесса. Он основывается на периодическом опрашивании устройства для получения информациио его состоянии..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polling (от англ. \"опрос\") - это метод мониторинга состояния какого-либо устройства, системы илипроцесса. Он основывается на периодическом опрашивании устройства для получения информациио его состоянии."
+            }
+          },
+          {
+            "id": "5d953350f698d8d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "замок на двери (мьютекс) обеспечивает взаимное исключение доступа к комнате (общемуресурсу)..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "замок на двери (мьютекс) обеспечивает взаимное исключение доступа к комнате (общемуресурсу)."
+            }
+          },
+          {
+            "id": "8426cc4acb808a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Атомарность — это свойство операции, которая выполняется как единое целое либо полностью, либо вообще не выполняется. Промежуточных состояний не существует..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Атомарность — это свойство операции, которая выполняется как единое целое либо полностью, либо вообще не выполняется. Промежуточных состояний не существует."
+            }
+          },
+          {
+            "id": "4c5cd7fe615a7870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Существует много типов состояний гонки, хотя наиболее распространенным типом условий гонкиявляется попытка двух или более потоков изменить одну и ту же переменную..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Существует много типов состояний гонки, хотя наиболее распространенным типом условий гонкиявляется попытка двух или более потоков изменить одну и ту же переменную."
+            }
+          },
+          {
+            "id": "6a2882430624ae53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "async with — асинхронный контекстный менеджер.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "async with — асинхронный контекстный менеджер"
+            }
+          },
+          {
+            "id": "a1c1c25ae5dc8ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "async for — асинхронный итератор.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "async for — асинхронный итератор"
+            }
+          },
+          {
+            "id": "e05d31a940f16103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Земная атмосфера по своей массе и по­глощ аю щ ей способности эквивалентнапримерно десятиметровому слою воды..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Земная атмосфера по своей массе и по­глощ аю щ ей способности эквивалентнапримерно десятиметровому слою воды."
+            }
+          },
+          {
+            "id": "887ea995f72c0bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invitation to immortality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invitation to immortality"
+            }
+          },
+          {
+            "id": "04f3f6d13ba105ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In technical writing, use a colon to alert readers that a list or table will follow..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In technical writing, use a colon to alert readers that a list or table will follow."
+            }
+          },
+          {
+            "id": "e1267fd8d1104842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reduce there is and there are..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reduce there is and there are."
+            }
+          },
+          {
+            "id": "b28c061df3131c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use a period to separate distinct thoughts; use a semicolon to unite highly related thoughts..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use a period to separate distinct thoughts; use a semicolon to unite highly related thoughts."
+            }
+          },
+          {
+            "id": "fffa0ad374b4601a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A good prompt tells the LLM what the reader intends to with the information..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A good prompt tells the LLM what the reader intends to with the information."
+            }
+          },
+          {
+            "id": "33cf42b6ec91f953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One writes to know what one is thinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "One writes to know what one is thinking"
+            }
+          },
+          {
+            "id": "71fb7f1a70900c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Любая таблица в реляционной базе данных состоит из строк, которые называют записями, и столбцов, которые называют полями..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Любая таблица в реляционной базе данных состоит из строк, которые называют записями, и столбцов, которые называют полями."
+            }
+          },
+          {
+            "id": "81852e9537f698b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all systems down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "all systems down"
+            }
+          },
+          {
+            "id": "84e7b1344e22d0f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I'm not just off chasing a good time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I'm not just off chasing a good time"
+            }
+          },
+          {
+            "id": "7cfb40821e9c094d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Выражение LIMIT 3 OFFSET 2 говорит о том, что должно быть извлечено три записи, начиная с записи с индексом два..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Выражение LIMIT 3 OFFSET 2 говорит о том, что должно быть извлечено три записи, начиная с записи с индексом два."
+            }
+          },
+          {
+            "id": "2402133a85864522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I'm a little cranky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I'm a little cranky"
+            }
+          },
+          {
+            "id": "500941236034ad50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELECT CONCAT(artist, ' - ', trackname).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SELECT CONCAT(artist, ' - ', trackname)"
+            }
+          },
+          {
+            "id": "5d9f2b90659614b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELECT CONCAT_WS(', ', id, artist, trackname) AS song.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SELECT CONCAT_WS(', ', id, artist, trackname) AS song"
+            }
+          },
+          {
+            "id": "19fdf14417ae800f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "в случаях, когда регистр символов важен, шаблон поиска необходимо преобразовать в тип данных BINARY с помощью функций CAST() или CONVERT().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "в случаях, когда регистр символов важен, шаблон поиска необходимо преобразовать в тип данных BINARY с помощью функций CAST() или CONVERT()"
+            }
+          },
+          {
+            "id": "bc00fe179e02807f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3051dffb4996b931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Функция DAYNAME() используется для вычисления названия дня недели на основе даты. Она принимает в качестве аргумента дату, определяет день недели, который соответствует переданной дате, и возвращает его полное название..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функция DAYNAME() используется для вычисления названия дня недели на основе даты. Она принимает в качестве аргумента дату, определяет день недели, который соответствует переданной дате, и возвращает его полное название."
+            }
+          },
+          {
+            "id": "e70679e284e97bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIMESTAMP() используется для объединения даты и временного значения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIMESTAMP() используется для объединения даты и временного значения"
+            }
+          },
+          {
+            "id": "e6bf087553a7e8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sql functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sql functions"
+            }
+          },
+          {
+            "id": "ab7222483676b1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drunk Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drunk Lab"
+            }
+          },
+          {
+            "id": "1eea859e5a192180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drunk Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drunk Lab"
+            }
+          },
+          {
+            "id": "cff0fe1669d6463a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "its amazing what you notice and what you don't notice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "its amazing what you notice and what you don't notice"
+            }
+          },
+          {
+            "id": "2eec341ade8b4b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one-to-one, one-to-many, many-to-many.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "one-to-one, one-to-many, many-to-many"
+            }
+          },
+          {
+            "id": "1b1d8f97dd159635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one-to-many.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "one-to-many"
+            }
+          },
+          {
+            "id": "ddef8b7e3a37f6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INNER JOIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INNER JOIN"
+            }
+          },
+          {
+            "id": "fbb49e4b3c3f78d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OUTER JOIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OUTER JOIN"
+            }
+          },
+          {
+            "id": "631b00762e6391e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UNION"
+            }
+          },
+          {
+            "id": "ef935916a791bff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Процедура отличается от функции тем, что не имеет начального значения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Процедура отличается от функции тем, что не имеет начального значения"
+            }
+          },
+          {
+            "id": "3130af31f7d7df3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Любой запрос, модифицирующий таблицу, начинается с оператора ALTER TABLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Любой запрос, модифицирующий таблицу, начинается с оператора ALTER TABLE"
+            }
+          },
+          {
+            "id": "e85c1eb8a03615a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все нейросети нативно обучены на английском или китайском. Русский для них кросс-мысль. Потребляет в 2-3 раза больше токенов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Все нейросети нативно обучены на английском или китайском. Русский для них кросс-мысль. Потребляет в 2-3 раза больше токенов"
+            }
+          },
+          {
+            "id": "1ad070c020c29470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL — данные в таблицах, NoSQL — данные как угодно.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL — данные в таблицах, NoSQL — данные как угодно"
+            }
+          },
+          {
+            "id": "25940e1b46689ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ddl commands in sql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ddl commands in sql"
+            }
+          },
+          {
+            "id": "c8a4d7853a282b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRUNCATE TABLE is generally faster than DELETE because it deallocates the data pages used by the table, rather than individually logging each row deletion..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TRUNCATE TABLE is generally faster than DELETE because it deallocates the data pages used by the table, rather than individually logging each row deletion."
+            }
+          },
+          {
+            "id": "7e1dce98a1626d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 – Networks/How many different physical links does a typical packet cross from its source to its destination on the Internet? 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How many different physical links does a typical packet cross from its source to its destination on the Internet? 15"
+            }
+          },
+          {
+            "id": "5be673817d2242a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sql functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sql functions"
+            }
+          },
+          {
+            "id": "300113637e40c02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23 - Journaling/04-29-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-29-2026"
+            }
+          },
+          {
+            "id": "d8d68fed1b69a98d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claude Code Channels push events into a Claude Code session from the outside world — so Claude can react to things happening outside your terminal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Code Channels push events into a Claude Code session from the outside world — so Claude can react to things happening outside your terminal"
+            }
+          },
+          {
+            "id": "d33d9ab1f3edf94c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A context window is the total amount of information a model can hold in its active memory at one time, including your conversation history, the files it has read, and the results of any terminal commands it has executed..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A context window is the total amount of information a model can hold in its active memory at one time, including your conversation history, the files it has read, and the results of any terminal commands it has executed."
+            }
+          },
+          {
+            "id": "2c8640e84b78103d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A longer context window might also have the unintended effect of presenting a longer attack surface for adversarial prompts..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A longer context window might also have the unintended effect of presenting a longer attack surface for adversarial prompts."
+            }
+          },
+          {
+            "id": "3a399e8a194a03d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You are moving away from being a participant in the human drama and becoming an analyst of its systems..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "You are moving away from being a participant in the human drama and becoming an analyst of its systems."
+            }
+          },
+          {
+            "id": "a0b394c5f98c95df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understand that most human behavior is an attempt to maintain internal stability (ego protection, comfort). If you understand what a person is trying to stabilize, their actions become entirely predictable..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Understand that most human behavior is an attempt to maintain internal stability (ego protection, comfort). If you understand what a person is trying to stabilize, their actions become entirely predictable."
+            }
+          },
+          {
+            "id": "f558f173017c7c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assign it zero emotional weight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "assign it zero emotional weight"
+            }
+          },
+          {
+            "id": "c2e007dc50afd26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--subjective glitches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "--subjective glitches"
+            }
+          },
+          {
+            "id": "5fb4913b4ac3a9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The current task load exceeds available processing time..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The current task load exceeds available processing time."
+            }
+          },
+          {
+            "id": "c52d997253b3955a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one-off – разовый, disposable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "one-off – разовый, disposable"
+            }
+          },
+          {
+            "id": "d433f1c89ecd0900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "В рамках полного цикла разработки ML подготовка данных (включая разметку) занимает почти 80% от всего времени проекта..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "В рамках полного цикла разработки ML подготовка данных (включая разметку) занимает почти 80% от всего времени проекта."
+            }
+          },
+          {
+            "id": "902e145374dd31e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sassy - дерзкий, нахальный.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sassy - дерзкий, нахальный"
+            }
+          },
+          {
+            "id": "332a3449deef45f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----Professor Messer Network+, then Jeremy's IT Lab on YouTube for CCNA content (free, very thorough).Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "----Professor Messer Network+, then Jeremy's IT Lab on YouTube for CCNA content (free, very thorough).Untitled 8"
+            }
+          },
+          {
+            "id": "cec21e01d9f0791f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snarky - sarcastic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "snarky - sarcastic"
+            }
+          },
+          {
+            "id": "7b0d44015a658b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "определенная самобытность в организации тезауруса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "определенная самобытность в организации тезауруса"
+            }
+          },
+          {
+            "id": "7e5dd6e23431ea86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тезаурус знаний пуст или беден для того чтобы принять эту информацию.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тезаурус знаний пуст или беден для того чтобы принять эту информацию"
+            }
+          },
+          {
+            "id": "9749d4e57aae7b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You’ll learn more by modifying the examples than by simply following them..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "You’ll learn more by modifying the examples than by simply following them."
+            }
+          },
+          {
+            "id": "73c45b347381374f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ea88da10d2a5e076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Streamed and unstreamed responses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streamed and unstreamed responses"
+            }
+          },
+          {
+            "id": "443920ed42477f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 – Thoughts/Have coffee after hydrating in the morning..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Have coffee after hydrating in the morning."
+            }
+          },
+          {
+            "id": "ff3f10da34bca898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The more you chew your food, the better..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The more you chew your food, the better."
+            }
+          },
+          {
+            "id": "224d8a64f322edbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "your outie has a loving partner, does volunteer work and has no idea what cryptocurrency is.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "your outie has a loving partner, does volunteer work and has no idea what cryptocurrency is"
+            }
+          },
+          {
+            "id": "81315b0a692af248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the internet was born in 1970. the economy ended in 1971. i don't make the rules..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the internet was born in 1970. the economy ended in 1971. i don't make the rules."
+            }
+          },
+          {
+            "id": "d311f382f8fa1451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pirate-acc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pirate-acc"
+            }
+          },
+          {
+            "id": "d185cdd821b394fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--Geneshaft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "--Geneshaft"
+            }
+          },
+          {
+            "id": "6c910143ec3bc1fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 – Coding/Data is any information that can be moved, processed, or stored by a computer..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data is any information that can be moved, processed, or stored by a computer."
+            }
+          },
+          {
+            "id": "49be84c44a9b2ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 – Coding/A value is a letter (e.g. a), number (e.g. 5), text (e.g. Hello), or instance of some other useful concept that can be represented as data..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A value is a letter (e.g. a), number (e.g. 5), text (e.g. Hello), or instance of some other useful concept that can be represented as data."
+            }
+          },
+          {
+            "id": "082766f48ee64448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 – Learning/Languages are therefore models of the world. When we speak and listen, we are modulating and demodulating these models..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Languages are therefore models of the world. When we speak and listen, we are modulating and demodulating these models."
+            }
+          },
+          {
+            "id": "b62461ba11e17c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 – Facts/Cinema matters because it reveals the machinery of perception.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cinema matters because it reveals the machinery of perception"
+            }
+          },
+          {
+            "id": "0b68ee1c81c4eb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 – Data/Data is any information that can be moved, processed, or stored by a computer..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data is any information that can be moved, processed, or stored by a computer."
+            }
+          },
+          {
+            "id": "a39a58a78c15924d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 – Learning/An object is a region of storage (usually memory) that can store a value..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An object is a region of storage (usually memory) that can store a value."
+            }
+          },
+          {
+            "id": "abc19169c0c3b894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 – Thoughts/Stevedoring company.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stevedoring company"
+            }
+          },
+          {
+            "id": "1ae543ae3dc013a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "забытые памятники неразумно растраченных жизней.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "забытые памятники неразумно растраченных жизней"
+            }
+          },
+          {
+            "id": "4b96d25f05c772b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23 - Journaling/05-08-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-08-2026"
+            }
+          },
+          {
+            "id": "fe0bbf172150a4a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSA is the largest employer of introverts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NSA is the largest employer of introverts"
+            }
+          },
+          {
+            "id": "e61e303091ec9f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSA is the largest employer of introverts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NSA is the largest employer of introverts"
+            }
+          },
+          {
+            "id": "6e66489757be5c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIGINT - Signals Intelligence – is the interception, analysis, and exploitation of electronic signals and communications to gather intelligence on adversaries' capabilities, actions, and intentions..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIGINT - Signals Intelligence – is the interception, analysis, and exploitation of electronic signals and communications to gather intelligence on adversaries' capabilities, actions, and intentions."
+            }
+          },
+          {
+            "id": "405dfef730776d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSA is the largest employer of introverts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NSA is the largest employer of introverts"
+            }
+          },
+          {
+            "id": "393e8ec68951caae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "that is true, but irrelevant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "that is true, but irrelevant"
+            }
+          },
+          {
+            "id": "1788558f48db1175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I don't find that joke very amusing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I don't find that joke very amusing"
+            }
+          },
+          {
+            "id": "615279cf42311422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a dynamic list and may never be able to satisfy particular standards for completeness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "This is a dynamic list and may never be able to satisfy particular standards for completeness"
+            }
+          },
+          {
+            "id": "cfc9c22d119698b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diversity and inclusion initiatives constitute harmful \"reverse discrimination\" against white people.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diversity and inclusion initiatives constitute harmful \"reverse discrimination\" against white people"
+            }
+          },
+          {
+            "id": "459b5a6fed18c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inadvertent - unintentional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inadvertent - unintentional"
+            }
+          },
+          {
+            "id": "49b16c9cac3d0db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mixed blessing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mixed blessing"
+            }
+          },
+          {
+            "id": "08a77c752204c65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the operator should be placed at the beginning of the next line, not the end of the current line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the operator should be placed at the beginning of the next line, not the end of the current line"
+            }
+          },
+          {
+            "id": "d8f7277ff859ba83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "as locked in as you can get.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "as locked in as you can get"
+            }
+          },
+          {
+            "id": "8d216a80ba14e58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rut - колея, борозда, выемка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rut - колея, борозда, выемка"
+            }
+          },
+          {
+            "id": "4badc2f25f8f3f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5432 - postgresql port.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5432 - postgresql port"
+            }
+          },
+          {
+            "id": "4b707e96cc3d7188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blowing smoke up my ass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "blowing smoke up my ass"
+            }
+          },
+          {
+            "id": "ab9765d5ae6e6aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locus - place.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "locus - place"
+            }
+          },
+          {
+            "id": "69c8cd8b64ebeedd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "22514532077e8fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ssl 3.0 was renamed to tls 1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ssl 3.0 was renamed to tls 1.0"
+            }
+          },
+          {
+            "id": "c94215916d8f3053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Levels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI Levels"
+            }
+          },
+          {
+            "id": "8d875db6b527edff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21 – Classified/cyborgism/Biological identity becomes not just irrelevant but actually counterproductive to meaningful discourse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biological identity becomes not just irrelevant but actually counterproductive to meaningful discourse"
+            }
+          },
+          {
+            "id": "5fb703ad4d2aae59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anemoia - nostalgia for the time you never know.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anemoia - nostalgia for the time you never know"
+            }
+          },
+          {
+            "id": "4b4fe17a1bc868b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "juxtaposes - сопотавляет.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "juxtaposes - сопотавляет"
+            }
+          },
+          {
+            "id": "28cbd1f3f3d81e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remixing is the natural mode of artmaking online; introducing any friction to process materials damages the sum art output of the community. All culture is permissionless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Remixing is the natural mode of artmaking online; introducing any friction to process materials damages the sum art output of the community. All culture is permissionless"
+            }
+          },
+          {
+            "id": "0650ce93dbc752c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "every new layer of infrastructure also becomes a new apparatus of control, debt, and dependency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "every new layer of infrastructure also becomes a new apparatus of control, debt, and dependency"
+            }
+          },
+          {
+            "id": "c7fa376296bbd317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the sun is clearly fake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the sun is clearly fake"
+            }
+          },
+          {
+            "id": "491148fec252c69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pseudonymous online existence liberates individuals from biological identity markers such as race, gender, and class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pseudonymous online existence liberates individuals from biological identity markers such as race, gender, and class"
+            }
+          },
+          {
+            "id": "bf49c4d30809ddd1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d44a6a28b3067bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Midnight (1998).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permanent Midnight (1998)"
+            }
+          },
+          {
+            "id": "d8129fabbb22aff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bees Make Honey (2017).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bees Make Honey (2017)"
+            }
+          },
+          {
+            "id": "7919e88badc804e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Система которая наблюдает за собой — на уровень выше чем система которая просто реагирует..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Система которая наблюдает за собой — на уровень выше чем система которая просто реагирует."
+            }
+          },
+          {
+            "id": "525a10e7d9c8b149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "истема которая никогда не уходит в recovery mode — деградирует. Это не мнение, это закон термодинамики и кибернетики..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "истема которая никогда не уходит в recovery mode — деградирует. Это не мнение, это закон термодинамики и кибернетики."
+            }
+          },
+          {
+            "id": "223f5ecc8b5230c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3391049e6768a9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I urge you to be certain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I urge you to be certain"
+            }
+          },
+          {
+            "id": "23c98fb46c12f789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conductive - проводящий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conductive - проводящий"
+            }
+          },
+          {
+            "id": "2830b82621d4979b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "and other hedonistic locales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "and other hedonistic locales"
+            }
+          },
+          {
+            "id": "665d1335cb58b67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noirss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noirss"
+            }
+          },
+          {
+            "id": "6594c41028966122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "futures that never happened.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "futures that never happened"
+            }
+          },
+          {
+            "id": "f73508808b33db48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seminal - основопологающий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "seminal - основопологающий"
+            }
+          },
+          {
+            "id": "e86a0b7cdef3206b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sterling - Distraction, Heavy Weather and Holy Fire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sterling - Distraction, Heavy Weather and Holy Fire"
+            }
+          },
+          {
+            "id": "00b11a4028d86095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "William Gibson nailed our future without even trying.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "William Gibson nailed our future without even trying"
+            }
+          },
+          {
+            "id": "9631040e718ee5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "renowned - известен, знаменит.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "renowned - известен, знаменит"
+            }
+          },
+          {
+            "id": "f8b7eb1300b8d1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "art deco >> streamline modern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "art deco >> streamline modern"
+            }
+          },
+          {
+            "id": "a2d1748b065fce40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unadorned - без украшений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unadorned - без украшений"
+            }
+          },
+          {
+            "id": "cf353f40449dba70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paramount - первостепенный, важнейший.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "paramount - первостепенный, важнейший"
+            }
+          },
+          {
+            "id": "2cb5e0880d3a9041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark City (1998).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dark City (1998)"
+            }
+          },
+          {
+            "id": "0ee15594252d6720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "porcelain cunt - фарфоровая пизда.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "porcelain cunt - фарфоровая пизда"
+            }
+          },
+          {
+            "id": "6bddbea3e026fae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subduing - подавление.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "subduing - подавление"
+            }
+          },
+          {
+            "id": "ce3497d463d98bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "and she may shift allegiances.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "and she may shift allegiances"
+            }
+          },
+          {
+            "id": "4fc74c6d770077a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Casino 1995.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Casino 1995"
+            }
+          },
+          {
+            "id": "9d502c845cd10fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unsettling – тревожный.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unsettling – тревожный"
+            }
+          },
+          {
+            "id": "e90853a9641e5581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sprawling neon lit cityscapes where biotech clinics operate like tattoo parlors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sprawling neon lit cityscapes where biotech clinics operate like tattoo parlors"
+            }
+          },
+          {
+            "id": "3f0472e1d1bef2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quick witted.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quick witted"
+            }
+          },
+          {
+            "id": "ea83bf23b44a8cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alcohol and cigarettes (which were typically depicted as alluring=desirable in the 1940s-1950s due to marketing).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alcohol and cigarettes (which were typically depicted as alluring=desirable in the 1940s-1950s due to marketing)"
+            }
+          },
+          {
+            "id": "f800aef2cafae80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wealthy backgrounds and possessions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wealthy backgrounds and possessions"
+            }
+          },
+          {
+            "id": "4d903d0c4cd1b764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What remains of the self when memories can be altered or copied?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What remains of the self when memories can be altered or copied?"
+            }
+          },
+          {
+            "id": "d5455d9ebd749a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The charismatic hacker‑outsider archetype.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The charismatic hacker‑outsider archetype"
+            }
+          }
+        ],
+        "currentTab": 186
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d20209d0095125",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe55ddf333d70dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff641acbd59bd62a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da13132ad0bd96d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cyborgism",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "313418545e1fc961",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "5e46d6400a53ff17",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1d1a9cef668c1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c20b0ffabde7f486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5b43ef60d39ddea5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e56150bc1e28f1e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b5c2b4fc20fb76d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0380d811def2ad8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d5455d9ebd749a88",
+  "lastOpenFiles": [
+    "Domain Controller (DC)This is the server that runs Active Directory..md",
+    "The charismatic hacker‑outsider archetype.md",
+    "Strange Days (1995).md",
+    "Не будь слишком строг к себеСорвался — не трагедия. Просто фиксируй и идёшь дальше. Самокритика здесь не помогает..md",
+    "-холодная коммуникация.md",
+    "What remains of the self when memories can be altered or copied?.md",
+    "Wealthy backgrounds and possessions.md",
+    "Alcohol and cigarettes (which were typically depicted as alluring=desirable in the 1940s-1950s due to marketing).md",
+    "quick witted.md",
+    "sprawling neon lit cityscapes where biotech clinics operate like tattoo parlors.md",
+    "unsettling – тревожный.md",
+    "Casino 1995.md",
+    "and she may shift allegiances.md",
+    "subduing - подавление.md",
+    "porcelain cunt - фарфоровая пизда.md",
+    "Dark City (1998).md",
+    "paramount - первостепенный, важнейший.md",
+    "unadorned - без украшений.md",
+    "art deco >> streamline modern.md",
+    "renowned - известен, знаменит.md",
+    "William Gibson nailed our future without even trying.md",
+    "Sterling - Distraction, Heavy Weather and Holy Fire.md",
+    "seminal - основопологающий.md",
+    "futures that never happened.md",
+    "Noirss.md",
+    "and other hedonistic locales.md",
+    "09 – Well-put/gits",
+    "09 – Well-put/ghost",
+    "21 – Classified/writing",
+    "12 – Thoughts/jiang",
+    "21 – Classified/website",
+    "21 – Classified/work",
+    "09 – Well-put/argument",
+    "21 – Classified/cyborgism",
+    "10 – Learning/latin",
+    "23 - Journaling",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

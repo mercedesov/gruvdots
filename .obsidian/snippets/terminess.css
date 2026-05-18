@@ -1,0 +1,12 @@
+/* Use installed system font */
+body {
+  --font-interface: "Terminess Nerd Font", "Terminess", monospace;
+  --font-text: "Terminess Nerd Font", "Terminess", monospace;
+  --font-monospace: "Terminess Nerd Font", "Terminess", monospace;
+}
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-file-title,
+.workspace-leaf-content[data-type="file-explorer"] .nav-folder-title {
+  font-family: "Terminess Nerd Font", "Terminess", monospace !important;
+  font-size: calc(var(--font-ui-smaller) + 2px) !important;
+}

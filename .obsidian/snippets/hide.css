@@ -1,0 +1,60 @@
+
+
+/* Hide tab headers */
+.workspace-tab-header-container { display: none !important; }
+
+/* Hide note title / file header bar */
+.view-header { display: none !important; }
+
+/* Hide left ribbon (icon bar) */
+.workspace-ribbon { display: none !important; }
+
+/* Hide status bar (bottom) */
+.status-bar { display: none !important; }
+
+/* Optional: hide scrollbars */
+::-webkit-scrollbar { width: 0 !important; height: 0 !important; }
+
+.workspace-leaf-content[data-type="markdown"] .view-content {
+    padding-top: 0 !important;
+}
+
+
+/* Make editor match file pane */
+.workspace-leaf-content,
+.view-content,
+.markdown-source-view,
+.markdown-preview-view {
+  background: transparent !important;
+}
+
+/* Remove editor padding / “paper” feel */
+.markdown-source-view .cm-scroller,
+.markdown-preview-view {
+  padding: 0 !important;
+}
+
+/* Force uniform pane background */
+.workspace-leaf {
+    background: var(--background-primary) !important;
+}
+
+/* Push content down (space above title) */
+.markdown-source-view .cm-scroller,
+.markdown-preview-view {
+  padding-top: 4rem !important; /* adjust: 2–5rem */
+}
+
+/* hide ALL icons in the file explorer header */
+.nav-header .nav-buttons-container { display: none !important; }
+
+/* hide them one-by-one (left→right) */
+.nav-header .nav-buttons-container .clickable-icon:nth-child(1) { display: none !important; } /* pencil */
+.nav-header .nav-buttons-container .clickable-icon:nth-child(2) { display: none !important; } /* + */
+.nav-header .nav-buttons-container .clickable-icon:nth-child(3) { display: none !important; } /* arrows */
+.nav-header .nav-buttons-container .clickable-icon:nth-child(4) { display: none !important; } /* layout */
+.nav-header .nav-buttons-container .clickable-icon:nth-child(5) { display: none !important; } /* chevron */
+
+.titlebar {
+    display: none;
+}

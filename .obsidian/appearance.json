@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Material Gruvbox",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "hide",
+    "terminess"
+  ]
+}
