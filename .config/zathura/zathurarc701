@@ -1,0 +1,25 @@
+set selection-clipboard clipboard
+set guioptions none
+
+# ----- dark reading mode -----
+set recolor true
+set recolor-keephue true
+set window-title-basename true
+set smooth-scroll false
+
+# background + text colors
+set default-bg "#0d0f18"
+set default-fg "#c0caf5"
+
+# how PDF content is mapped when recolor=true
+set recolor-lightcolor "#0d0f18"
+set recolor-darkcolor  "#c0caf5"
+
+# (optional) UI
+set statusbar-bg "#0d0f18"
+set statusbar-fg "#c0caf5"
+set inputbar-bg  "#0d0f18"
+set inputbar-fg  "#c0caf5"
+set statusbar true
+map <Return> scroll half-down
+map u scroll half-up

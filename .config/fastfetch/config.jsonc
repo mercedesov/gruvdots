@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/dev/doc/json_schema.json",
+
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logo.txt"
+  },
+
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "packages",
+    "host",
+    "uptime",
+    "terminal",
+    "shell",
+    "de",
+    {
+      "type": "custom",
+      "key": "WM",
+      "format": "yabai"
+    },
+    "icons",
+    "terminalfont",
+  ]
+}
